@@ -29,7 +29,7 @@ This study’s purpose is to use machine learning techniques to investigate and 
 - [Pandas](https://pandas.pydata.org/)
 - [JupyterNotebook](https://jupyter.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
-- [sns][https://seaborn.pydata.org/]
+- [sns](https://seaborn.pydata.org/)
 
 
 ## Contributing
